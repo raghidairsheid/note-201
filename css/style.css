@@ -1,0 +1,80 @@
+img{
+    width:200px;
+    border: 3px solid yellowgreen;
+    padding: 50px 30px 10px 20px;
+    margin: 20px; 
+  }
+
+nav ul li a{
+    text-decoration: none;
+    width:500px;
+    
+    font-family: courier;
+    color: blue; 
+    background-position: right bottom;
+    background-size: 100px 100px; 
+    
+  }  
+P{
+    color: rgb(16, 22, 16);
+    text-decoration: none;
+    margin: 100px 20px 50px 20px;
+    background-image: url("https://i.pinimg.com/736x/e3/8d/71/e38d7137e1f035c7809d99a36b7346f3.jpg");
+    font-family: cursive;
+  }
+
+h1{
+    text-align: center;
+    color: rgb(51, 255, 0);
+    margin-top: 100px;
+    text-transform: uppercase;
+    font-family: serif;
+    padding: 10px 50px 10px 20px;
+  }
+
+  
+table tr th{
+    width: 10%;
+    border: 1px solid #2b0303;
+    margin:0;
+    padding: 5px;
+    font-family: cursive;
+  }
+table tr td{
+    width: 10%;
+    border-collapse: collapse ;
+    border: 1px solid rgb(162, 226, 43);
+    font-family: cursive;
+  
+  }
+#part1 {
+    text-align: center;
+    color: hsl(300, 60%, 27%);
+  }
+
+.part2 {
+    margin: 100px 20px 50px 20px;
+    padding: 10px 10px 10px 10px;
+ }
+
+nav ul li{
+    border:2px solid rgb(0, 174, 255) ;
+    padding: 10px;
+    margin: 30px;
+    display: inline-block;
+  }
+
+nav ol li{
+    border:2px solid #bd1330 ;
+    padding: 10px;
+    margin: 30px;
+    display: inline-block;
+  }
+
+h4{
+    text-align: center;
+    color: rgb(89, 0, 255);
+    margin-top: 100px;
+    text-transform: uppercase;
+    font-family: serif;
+}
