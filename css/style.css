@@ -44,7 +44,9 @@ table tr td{
     text-align: center;
     color: hsl(300, 60%, 27%);
   }
-
+#part3{
+    background-color: #a1dac7;
+}
 .part2 {
     margin: 100px 20px 50px 20px;
     padding: 10px 10px 10px 10px;
@@ -59,7 +61,5 @@ nav ul li{
 
 nav ol li{
     color: #bd1330 ;
-    padding: 10px;
-    margin: 30px;
   }
 
