@@ -8,20 +8,25 @@ img{
 nav ul li a{
     text-decoration: none;
     width:500px;
-    
     font-family: courier;
     color: blue; 
     background-position: right bottom;
     background-size: 100px 100px; 
     
-  }  
-P{
-    color: rgb(16, 22, 16);
-    text-decoration: none;
-    margin: 100px 20px 50px 20px;
-    background-image: url("https://i.pinimg.com/736x/e3/8d/71/e38d7137e1f035c7809d99a36b7346f3.jpg");
-    font-family: cursive;
   }
+
+#c1{
+  color: #1b0130;
+  background-color: #baaac7;
+}
+#c2{
+  color: #42050f;
+  background-color: rgb(199, 147, 156);
+}
+#c3{
+  color: rgb(122, 35, 108);
+  background-color: rgb(221, 192, 206);
+}
 
 
 
@@ -44,19 +49,25 @@ table tr td{
     text-align: center;
     color: hsl(300, 60%, 27%);
   }
-#part3{
-    background-color: #57948a;
-}
+  h1{
+    text-align: center;
+    color: rgb(51, 255, 0);
+    margin-top: 100px;
+    text-transform: uppercase;
+    font-family: serif;
+    padding: 10px 50px 10px 20px;
+    background-color: bisque;
+   }
 .part2 {
     margin: 100px 20px 50px 20px;
     padding: 10px 10px 10px 10px;
  }
 
 nav ul li{
-    border:2px solid rgb(0, 174, 255) ;
+    /* border:2px solid rgb(0, 174, 255) ; */
     padding: 10px;
     margin: 30px;
-    display: inline-block;
+    /* display: inline-block; */
   }
 
 nav ol li{
